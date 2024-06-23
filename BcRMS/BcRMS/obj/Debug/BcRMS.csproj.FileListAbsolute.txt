@@ -1,0 +1,5 @@
+D:\dinesh\bcRMS\BcRMS\BcRMS\bin\BcRMS.dll
+D:\dinesh\bcRMS\BcRMS\BcRMS\bin\BcRMS.pdb
+D:\dinesh\bcRMS\BcRMS\BcRMS\obj\Debug\BcRMS.dll
+D:\dinesh\bcRMS\BcRMS\BcRMS\obj\Debug\BcRMS.pdb
+D:\dinesh\bcRMS\BcRMS\BcRMS\obj\Debug\BcRMS.csprojResolveAssemblyReference.cache
